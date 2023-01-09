@@ -1,0 +1,29 @@
+body{
+    max-width: 900px;
+    margin: auto;
+}
+
+nav .home{
+    color: #FA8072;
+}
+
+h1{
+    color: #FA8072;
+    font-size: 72pt;
+}
+
+h2{
+    color: #64B6AC;
+}
+
+p{
+    color: #272727;
+}
+
+body{
+    background-color: #fffffa;
+}
+
+header, h1, main #artistdesk, footer{
+    text-align: center;
+}
