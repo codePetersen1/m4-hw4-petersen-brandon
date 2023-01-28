@@ -1,9 +1,10 @@
 body{
     max-width: 900px;
     margin: auto;
+    background-color: #fffffa;
 }
 
-nav .home{
+header .active{
     color: #FA8072;
 }
 
@@ -20,10 +21,11 @@ p{
     color: #272727;
 }
 
-body{
-    background-color: #fffffa;
-}
-
 header, h1, main #artistdesk, footer{
     text-align: center;
+}
+
+main > .centerimg{
+    display: block;
+    margin: auto;
 }
